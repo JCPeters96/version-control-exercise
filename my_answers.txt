@@ -1,1 +1,2 @@
-git commit -m "add data to my_answers.txt"
+Test for exercise 3
+Doing great!
