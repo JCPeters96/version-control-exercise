@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello world!
+=======
+Test for exercise 3
+Doing great!
+>>>>>>> c3a3810c9112f99da8556ee6b58da4187c8e1b1c
